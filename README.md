@@ -34,13 +34,13 @@ cd mobinhost-mirror
 ### Step 2: Make the Script Executable
 
 ```bash
-chmod +x mirror-setup.sh
+chmod +x set.sh
 ```
 
 ### Step 3: Run with Sudo
 
 ```bash
-sudo ./mirror-setup.sh
+sudo ./set.sh
 ```
 
 ## What to Expect
