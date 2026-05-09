@@ -1,0 +1,6 @@
+*.backup
+*.backup.*
+error.log
+tmp/
+*.tar.gz
+.DS_Store
